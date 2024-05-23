@@ -1,0 +1,10 @@
+node_modules
+.env
+.vscode
+styles.css
+out/
+database.sqlite3
+PUBLICATION_REVIEW.md
+README.draft.md
+README.draft.*
+*.draft.md
