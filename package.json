@@ -70,7 +70,7 @@
     "http2-wrapper": "^2.2.1",
     "json-buffer": "^3.0.1",
     "json-stringify-safe": "^5.0.1",
-    "jsonfile": "^6.1.0",
+    "jsonfile": "^6.2.1",
     "keyv": "^4.5.4",
     "lowercase-keys": "^3.0.0",
     "lru-cache": "^10.2.2",
