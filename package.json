@@ -72,7 +72,7 @@
     "json-stringify-safe": "^5.0.1",
     "jsonfile": "^6.1.0",
     "keyv": "^4.5.4",
-    "lowercase-keys": "^3.0.0",
+    "lowercase-keys": "^4.0.1",
     "lru-cache": "^10.2.2",
     "markdown-it": "^14.1.0",
     "matcher": "^5.0.0",
